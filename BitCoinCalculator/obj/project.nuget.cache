@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vh4K3UgB/9vUjYyVveADMzjTHMEOa5r/8tWLUE6UG7fYQ8WNUMGuR8vSPDkHyWVH/g6T3eQ7GHHzlJwyNylyHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mammu\\source\\repos\\BitCoinCalculator\\BitCoinCalculator\\BitCoinCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mammu\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
