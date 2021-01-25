@@ -72,6 +72,9 @@ namespace BitCoinCalculator
                 var response = responseReader.ReadToEnd();
                 bitcoin = JsonConvert.DeserializeObject<BitCoinRates>(response);
             }
+
+
+            return bitcoin;
         }
 
     }
